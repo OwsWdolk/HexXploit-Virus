@@ -36,7 +36,9 @@
 
 
 **Videodaki Sanal Makine Minimum Özelliklerle Açıldı. Daha İyi Bİr Bilgisayarda Çok Daha Fazla Etki Görülecektir!**
+
 https://youtu.be/tQ6tfHAhzwU
+
 **The Virtual Machine in the Video was Opened with Minimum Requirements. A Better Computer Will Have Much More Effects!**
 
 *Some Nonsense Function Names Have Nothing to Do With Me=D*
