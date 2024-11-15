@@ -2,8 +2,11 @@
 *Bazı Saçma Fonksiyon İsimlerinin Benimle Alakası Yoktur=D*
 
 **Türkçe:**
+     <br>
   *Etkiler:*
+     <br>
      - Ekranın Genişliğini Hesaplayarak Seçtiği Rastgele Konumlara Tıklamlar Yapar.
+     <br>
      - Varsayılan Tarayıcı İle *HACKED* Görselleri Açar.
      - Argo Bir Dile İle Sağ Alttan Windows Bildirim Sesi İle Durmadan Uyarı Verir.
      - Popüler Sitelere DDoS Saldırıları Yapar.
