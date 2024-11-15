@@ -1,4 +1,4 @@
-**NOT: KODU YÖNETİCİ OLARAK ÇALIŞTIRMAZSIN İŞLEMLER YARIDA KALIR!**
+**NOT: KODU YÖNETİCİ OLARAK ÇALIŞTIRMAZSIN İŞLEMLER YARIDA KALIR!**<br>
 *Bazı Saçma Fonksiyon İsimlerinin Benimle Alakası Yoktur=D*
 
 **Türkçe:**
