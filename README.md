@@ -15,7 +15,6 @@
      <br>
      - Maximum Boyutta Googledan Rastgele Siteler Açar.
      <br>
-     <br>
      - Arka Planda Rastgele Siteler Açar.
      <br>
      - İnterneti Durmadan Aynı Anda 10000'den Fazla Kere Hız testine Sokar.
