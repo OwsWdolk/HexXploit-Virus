@@ -71,7 +71,7 @@ https://youtu.be/tQ6tfHAhzwU?t=60
 
 **The Virtual Machine in the Video was Opened with Minimum Requirements. A Better Computer Will Have Much More Effects!**
 
-*Some Nonsense Function Names Have Nothing to Do With Me=D*
+*Some Nonsense Function Names Have Nothing to Do With Me=D*<br>
 **English:**<br>
   *Effects:*<br>
      - It Clicks on Random Positions It Selects by Calculating the Width of the Screen.<br>
